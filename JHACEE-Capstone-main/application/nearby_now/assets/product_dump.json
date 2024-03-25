@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Apple",
+        "price": "1.48",
+        "stock": 53,
+        "aisle": 1,
+        "id": "f1d80d72-e876-47a1-ad67-c745c499cb31",
+        "beacon_id": "F2:53:74:ED:E2:25"
+    },
+    {
+        "name": "Banana",
+        "price": "0.87",
+        "stock": 71,
+        "aisle": 1,
+        "id": "c7d29c03-e8ab-47ab-a78b-5cf043c6d640",
+        "beacon_id": "F2:53:74:ED:E2:25"
+    },
+    {
+        "name": "Ramen",
+        "price": "0.99",
+        "stock": 61,
+        "aisle": 2,
+        "id": "a950d2ca-cbac-4e42-bbcc-7144fa9de23b",
+        "beacon_id": "EC:E4:57:36:D0:D2"
+    },
+    {
+        "name": "Canned Soup",
+        "price": "1.20",
+        "stock": 42,
+        "aisle": 2,
+        "id": "28c4da16-abd1-4f51-ac00-c5a2a70c581b",
+        "beacon_id": "EC:E4:57:36:D0:D2"
+    },
+    {
+        "name": "Chips",
+        "price": "3.50",
+        "stock": 56,
+        "aisle": 3,
+        "id": "8445db1d-140a-4ebb-8223-f5fb46e8860a",
+        "beacon_id": "C3:A8:B1:38:F2:B4"
+    },
+    {
+        "name": "Soda",
+        "price": "2.50",
+        "stock": 63,
+        "aisle": 3,
+        "id": "8ef7c8af-8392-41b9-8d40-953078a4da1f",
+        "beacon_id": "C3:A8:B1:38:F2:B4"
+    },
+    {
+        "name": "Cereal",
+        "price": "7.50",
+        "stock": 27,
+        "aisle": 4,
+        "id": "3cb654e8-71fd-470e-be17-6cbe21827826",
+        "beacon_id": "B8:C9:38:44:93:A9"
+    },
+    {
+        "name": "Rice",
+        "price": "32.50",
+        "stock": 15,
+        "aisle": 4,
+        "id": "64b68463-0be1-49e2-a69c-b56cf9d13d57",
+        "beacon_id": "B8:C9:38:44:93:A9"
+    },
+    {
+        "name": "Bread",
+        "price": "4.50",
+        "stock": 39,
+        "aisle": 5,
+        "id": "50ef99a1-1c76-49cc-868f-170fabd28f9a",
+        "beacon_id": "A3:2C:22:9B:3A:A0"
+    },
+    {
+        "name": "Bagels",
+        "price": "2.30",
+        "stock": 12,
+        "aisle": 5,
+        "id": "da4224b3-eee1-4b5d-af4c-d075836d311d",
+        "beacon_id": "A3:2C:22:9B:3A:A0"
+    },
+    {
+        "name": "Pita Bread",
+        "price": "5.75",
+        "stock": 52,
+        "aisle": 5,
+        "id": "2d91c924-3f05-45ee-8245-b0a97d53baa7",
+        "beacon_id": "A3:2C:22:9B:3A:A0"
+    },
+    {
+        "name": "Dog Food",
+        "price": "14.60",
+        "stock": 12,
+        "aisle": 6,
+        "id": "40fcc0b5-1d22-4604-b2f6-001148e3bc1c",
+        "beacon_id": "9C:B3:67:24:A9:9F"
+    },
+    {
+        "name": "Cat Food",
+        "price": "19.49",
+        "stock": 18,
+        "aisle": 6,
+        "id": "e943ef3f-96c5-479c-ac11-a36e932815f5",
+        "beacon_id": "9C:B3:67:24:A9:9F"
+    },
+    {
+        "name": "Litter",
+        "price": "24.95",
+        "stock": 21,
+        "aisle": 6,
+        "id": "e61943f3-65c0-4c2e-9c79-553ddc3609ee",
+        "beacon_id": "9C:B3:67:24:A9:9F"
+    }
+]

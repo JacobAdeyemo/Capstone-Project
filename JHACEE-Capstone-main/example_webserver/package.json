@@ -1,0 +1,18 @@
+{
+  "name": "kornor-store-webserver",
+  "version": "1.0.0",
+  "description": "An example webserver for some store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "author": "e-seng",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.2"
+  }
+}
